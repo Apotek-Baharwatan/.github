@@ -152,3 +152,4 @@ Seluruh kontribusi kode wajib mematuhi aturan baku pada:
   <sub>© 2026 Apotek Baharwatan. Hak Cipta Dilindungi Undang-Undang.</sub><br/>
   <sub>Kepatuhan Farmasi: Permenkes RI No. 73/2016, Permenkes No. 3/2015, dan Perka BPOM No. 9/2019 tentang CDOB.</sub>
 </div>
+
